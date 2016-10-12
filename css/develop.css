@@ -1,0 +1,12 @@
+.spa-component-widget {
+    box-sizing: border-box;
+    position: absolute;
+    background-color: darkslateblue;
+    outline: 1px dashed #005000;
+    outline-offset: -1px; }
+    .spa-component-widget.hidden {
+        display: none; }
+    .spa-component-widget.hidden {
+        visibility: hidden; }
+    .spa-component-widget.focus {
+        outline: 1px dashed red; }

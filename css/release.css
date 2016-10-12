@@ -1,0 +1,8 @@
+.spa-component-widget {
+    box-sizing: border-box;
+    position: absolute;
+    background-color: darkslateblue; }
+    .spa-component-widget.hidden {
+        display: none; }
+    .spa-component-widget.hidden {
+        visibility: hidden; }
