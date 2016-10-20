@@ -1,9 +1,10 @@
 Widget component
 ================
 
-[![Build Status](https://img.shields.io/travis/spasdk/component-widget.svg?style=flat-square)](https://travis-ci.org/spasdk/component-widget)
-[![NPM version](https://img.shields.io/npm/v/spa-component-widget.svg?style=flat-square)](https://www.npmjs.com/package/spa-component-widget)
-[![Dependencies Status](https://img.shields.io/david/spasdk/component-widget.svg?style=flat-square)](https://david-dm.org/spasdk/component-widget)
+[![build status](https://img.shields.io/travis/spasdk/component-widget.svg?style=flat-square)](https://travis-ci.org/spasdk/component-widget)
+[![npm version](https://img.shields.io/npm/v/spa-component-widget.svg?style=flat-square)](https://www.npmjs.com/package/spa-component-widget)
+[![dependencies status](https://img.shields.io/david/spasdk/component-widget.svg?style=flat-square)](https://david-dm.org/spasdk/component-widget)
+[![devDependencies status](https://img.shields.io/david/dev/spasdk/component-widget.svg?style=flat-square)](https://david-dm.org/spasdk/component-widget?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/spasdk)
 
 
