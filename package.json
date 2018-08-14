@@ -1,6 +1,6 @@
 {
     "name": "spa-component-widget",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Base widget implementation.",
     "author": {
         "name": "Stanislav Kalashnik",
